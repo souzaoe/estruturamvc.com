@@ -6,7 +6,7 @@ require 'environment.php';
 $config = array(); 
 
 if(ENVIRONMENT == 'development') {
-	define("BASE_URL", "http://localhost/estrutura_mvc/");
+	define("BASE_URL", "http://localhost/estruturamvc.com/");
 	//define("BASE_URL", "http://localhost/php.pc/04_SUP_AVANCADO/02_ESTRUTURA%20MVC/03_INDEX_REWRITE/")
 	// configurações do servidor local
 	//define("BASE_URL", "http://localhost/03_INDEX_REWRITE/");
